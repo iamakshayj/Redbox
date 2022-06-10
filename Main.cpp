@@ -1,5 +1,3 @@
-// Akshay Jagadeesh
-// axj190048
 
 // Packages used
 #include <iostream>
