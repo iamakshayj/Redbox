@@ -1,5 +1,4 @@
-// Akshay Jagadeesh
-// axj190048
+
 #include "DVD.h"
 // Default seat values
 DVD::DVD()
