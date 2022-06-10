@@ -1,5 +1,4 @@
-// Akshay Jagadeesh
-// axj190048
+
 #ifndef DVD_h
 #define DVD_h
 #include <iostream>
