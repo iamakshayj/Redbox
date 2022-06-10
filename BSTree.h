@@ -1,5 +1,4 @@
-// Akshay Jagadeesh
-// axj190048
+
 #ifndef BSTree_h
 #define BSTree_h
 #include "Node.h"
