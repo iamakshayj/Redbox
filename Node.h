@@ -1,5 +1,4 @@
-// Akshay Jagadeesh
-// axj190048
+
 #ifndef Node_h
 #define Node_h
 #include <string>
